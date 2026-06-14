@@ -95,20 +95,6 @@ yusrida:
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🧮 Binary Calculator</h3>
-      <p align="center">A clean utility tool for converting and calculating binary numbers, built to strengthen core logic and problem-solving skills.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎨 BgColorChanger</h3>
-      <p align="center">An interactive web app that dynamically changes background colors — focused on DOM manipulation and UI responsiveness.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🔢 Counter App</h3>
-      <p align="center">A minimalist counter application demonstrating state management and clean front-end interaction design.</p>
-    </td>
-    <td width="50%">
       <h3 align="center">🤍 Face Shape Recommendation AI</h3>
       <p align="center">A machine learning model that analyzes facial features to recommend the most flattering hairstyles and accessories.</p>
     </td>
@@ -155,10 +141,10 @@ yusrida:
 <a href="https://github.com/yusrida04">
   <img src="https://img.shields.io/badge/GitHub-2D1B3D?style=for-the-badge&logo=github&logoColor=F7C6D9"/>
 </a>
-<a href="#">
+<a href="https://www.linkedin.com/in/yusrida-jelianti-sihite/">
   <img src="https://img.shields.io/badge/LinkedIn-2D1B3D?style=for-the-badge&logo=linkedin&logoColor=D8B4E2"/>
 </a>
-<a href="#">
+<a href="https://www.instagram.com/yusrida_sihite/">
   <img src="https://img.shields.io/badge/Instagram-2D1B3D?style=for-the-badge&logo=instagram&logoColor=E6C7E8"/>
 </a>
 
