@@ -142,7 +142,7 @@ yusrida:
   <img src="https://img.shields.io/badge/GitHub-2D1B3D?style=for-the-badge&logo=github&logoColor=F7C6D9"/>
 </a>
 <a href="https://www.linkedin.com/in/yusrida-jelianti-sihite/">
-  <img src="https://img.shields.io/badge/LinkedIn-2D1B3D?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-2D1B3D?style=for-the-badge&logo=linkedin&logoColor=D8B4E2"/>
 </a>
 <a href="https://www.instagram.com/yusrida_sihite/">
   <img src="https://img.shields.io/badge/Instagram-2D1B3D?style=for-the-badge&logo=instagram&logoColor=E6C7E8"/>
